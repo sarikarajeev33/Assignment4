@@ -28,9 +28,7 @@ Usually, you would have to come up with the design on your own. However, this ti
 Things to submit to GitHub:
 1. Any more design questions that you might have in ***questions.txt***.
 2. A set of milestones in ***milestone.txt*** that decribes how you will break up the problem.
-3. Your solutions to the following problems in ***problems.txt***:
-    * Homework problem 9.15
-    * Homework problem 9.16
+
 
 # Testing
 I will provide you, at a later date, with a .o file or two that you can compile ```heapmgr.c``` against. These files are inteded to help you figure out if things are functioning correctly, since testing this can be very difficult.
